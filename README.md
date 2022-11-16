@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Konrad
-- 📫 How to reach me Email me at:ksturdivantwilson@daltonstate.edu
+#  :japanese_goblin: Howdy
+
+I am a Student studying at Dalton State College with a focus on computer science.
+
+## Contact Infomation
+
+Email: Ksturdivantwilson@daltonstate.edu
 
 <!---
 ksturdivantwilson/ksturdivantwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
