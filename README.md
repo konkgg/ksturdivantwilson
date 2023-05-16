@@ -2,7 +2,7 @@
 
 I am a Student studying at Dalton State College with a focus on computer science.
 
-![]([https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/overview.svg](https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/overview.svg?token=GHSAT0AAAAAACAZGDOLLWVPJ2RE6OYJXD6YZDD2C5A)#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/overview.svg?token=GHSAT0AAAAAACAZGDOLLWVPJ2RE6OYJXD6YZDD2C5A#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ksturdivantwilson/gitstats/master/generated/languages.svg#gh-light-mode-only)
